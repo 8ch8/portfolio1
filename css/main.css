@@ -362,6 +362,7 @@ main#home h1 {
   }
   main .lg-heading {
     font-size: calc(1.8rem + 3vw);
+    text-align: center;
   }
   .projects {
     grid-template-columns: 1fr;
