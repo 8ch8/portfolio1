@@ -70,7 +70,7 @@
   main#home h1 {
     margin-top: 10vh;
   }
-  main {
+   main {
     align-items: center;
     text-align: center;
 
@@ -78,6 +78,9 @@
       line-height: 1;
       margin-bottom: 1rem;
       font-size: calc(2rem + 3vw);
+      align-items: center;
+      text-align: center;
+      padding: 5px;
     }
   }
 
